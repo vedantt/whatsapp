@@ -1,0 +1,6 @@
+Flask>=2.3.2,<3.1
+requests>=2.31.0
+# Pin Cohere SDK to v4 API used by this app (client.chat(message=..., model="command"))
+cohere>=4.54,<5
+# Ensure timezone data availability across environments
+tzdata>=2024.1
