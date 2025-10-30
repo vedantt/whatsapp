@@ -213,4 +213,4 @@ Troubleshooting
 - If Cohere SDK shape changes, pin version in requirements (already pinned to 4.x) or adjust `cohere_chat_text` accordingly
 
 License
-MIT
+VEDANT
